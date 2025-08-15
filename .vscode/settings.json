@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "HeadRST.sln"
+    "dotnet.defaultSolution": "Unity6000_Meta_BaseProject_withEyeTracking.sln"
 }
